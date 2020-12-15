@@ -21,7 +21,7 @@ export default [
   },
   {
     _tag: 'CSidebarNavItem',
-    name: 'Typography',
+    name: 'Profile',
     to: '/theme/typography',
     icon: 'cil-pencil',
   },

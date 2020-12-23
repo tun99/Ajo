@@ -60,7 +60,7 @@ const WidgetsDropdown = () => {
         </CWidgetDropdown>
       </CCol>
       <CCol sm="6" lg="3">
-        <Link to="/Contributions">
+        <Link to="/contributions" className="text-decoration-none">
         <CWidgetDropdown
           color="gradient-warning"
           header="Contribution"
